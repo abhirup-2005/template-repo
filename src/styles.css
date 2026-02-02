@@ -4,9 +4,9 @@
     padding: 0;
 }
 :root {
-    --bg : red;
+    --bg-color : #ffffff;
 }
 
 body {
-    background-color: var(--bg);
+    background-color: var(--bg-color);
 }
